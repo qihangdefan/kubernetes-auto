@@ -31,3 +31,4 @@ README信息后续更倾向于wiki页面更新，毕竟分支不再是一个
 
 ### kubectl get cs显示unkown不是bug,见
 https://github.com/kubernetes/enhancements/issues/553
+# kubernetes-auto
